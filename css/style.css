@@ -140,13 +140,13 @@ main p {
   float: right;
 }
 
+footer a{
+  color: white;
+}
 
 footer a:hover {
   color: #4CAF50;
   }
-
-  * {box-sizing:border-box}
-
 
 
 * {box-sizing:border-box}
